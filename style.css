@@ -279,7 +279,7 @@ section .do-me .do-inner:hover .icon i {
 
 /* background */
 .bg {
-    background: url('대화.jpg') center center;
+    background: url('./images/대화.jpg') center center;
     background-size: cover;
     background-attachment: fixed;
     height: 650px;
