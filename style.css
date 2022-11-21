@@ -375,7 +375,7 @@ section .contact-me::after {
 }
 
 section .contact-me .left {
-    width: 30%;
+    width: 60%;
     float: left;
 }
 
